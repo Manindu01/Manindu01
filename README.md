@@ -26,19 +26,11 @@
 
 <h2 align="center">About Me</h2>
 
-- 👋 I'm **Your Name**
-- 🧑 I'm **Your Age** years old
+- 👋 I'm **Manindu**
 - 👀 I'm interested in **HTML, CSS, JavaScript, C++, Hacking, Web Development** and more...
-- 🌱 I'm currently studying **Computer Systems and Network Engineering** at **SLIIT**
-- 🧑‍💻 Member of **KCD, GDG, and AICSL**
-- 🤝 Looking to collaborate on **web development, Linux tools, and server operations**
+- 🌱 I'm currently studying **Software Engineering** at **NIBM**
+- 🤝 Looking to collaborate on **Frontend development**
 
-### Connect with Me:
-- 📧 Email: [YourEmail@domain.com](mailto:YourEmail@domain.com)
-- 📸 Instagram: [@YourInstagram](https://www.instagram.com/YourInstagram)
-- 📱 WhatsApp: **+94YourPhoneNumber**
-
----
 
 <h2 align="center">Achievements</h2>
 
